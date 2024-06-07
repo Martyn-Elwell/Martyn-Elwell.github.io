@@ -1,216 +1,44 @@
 ﻿@page "/portfolio"
 
+
 <PageTitle>Portfolio</PageTitle>
 <div class="container">
     <div class="row row-cols-1 row-cols-md-4 row-cols-lg-6 justify-content-center">
         <div class="col">
-            <button type="button" class="btn btn-outline-primary btn-block m-2" data-bs-toggle="button">Show All</button>
+            <button type="button" class="@($"btn {(Filter== CardData.ProjectType_Value.All? "btn-primary": "btn-outline-primary")} btn-block m-2")"
+                    @onclick="(()=> Filter = CardData.ProjectType_Value.All)">
+                Show All
+            </button>
         </div>
         <div class="col">
-            <button type="button" class="btn btn-outline-primary btn-block m-2" data-bs-toggle="button">University</button>
+            <button type="button" class="@($"btn {(Filter== CardData.ProjectType_Value.Uni? "btn-primary": "btn-outline-primary")} btn-block m-2")"
+                    @onclick="(()=> Filter = CardData.ProjectType_Value.Uni)">
+                University
+            </button>
         </div>
         <div class="col">
-            <button type="button" class="btn btn-outline-primary btn-block m-2" data-bs-toggle="button">Game Jams</button>
+            <button type="button" class="@($"btn {(Filter== CardData.ProjectType_Value.GameJams? "btn-primary": "btn-outline-primary")} btn-block m-2")"
+                    @onclick="(()=> Filter = CardData.ProjectType_Value.GameJams)">
+                Game Jams
+            </button>
         </div>
         <div class="col">
-            <button type="button" class="btn btn-outline-primary btn-block m-2" data-bs-toggle="button">2Q28 Studio</button>
+            <button type="button" class="@($"btn {(Filter== CardData.ProjectType_Value.Studio? "btn-primary": "btn-outline-primary")} btn-block m-2")"
+                    @onclick="(()=> Filter = CardData.ProjectType_Value.Studio)">
+                2Q28 Studio
+            </button>
         </div>
     </div>
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
-        @foreach (var item in Data)
+        @foreach (var item in FilteredData)
         {
-            <div class="col mt-5">
-                <a class="card h-100" href="@item.Href">
-                    <img src="@item.ImageFilePath" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">@item.Title</h5>
-                        <p class="card-text">@item.Description</p>
-                    </div>
-                    <div class="card-footer bg-white">
-                        @item.Date
-                    </div>
-                    @foreach (var platform in item.Platforms)
-                    {
-                        <div class="platform-icon"><i class="@platform.Icon"></i></div>
-                    }
-                </a>
-            </div>
+            <PorfolioCard item="@item" />
         }
     </div>
 </div>
-<style>
-    a.card {
-        text-decoration: none !important;
-        color: #212529;
-    }
-
-        a.card:hover::before {
-            /*  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important; */
-            /* width: 100%;
-               height:100%;
-               background: rgba(0,0,0,.4);
-               position:absolute;
-               z-index:2; */
-        }
-
-        a.card:hover {
-            box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.25) !important;
-            /* content: "CLick here to see more";
-                color: #fff;
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                transform: translateY(-50%) translateX(-50%);
-                z-index:2; */
-        }
-    /* style for image topper */
-    .card-img-top {
-        height: 180px;
-        /*padding: 1rem;  for background less icons */
-        background-color: rgba(0,0,0,.1)
-    }
-
-        .card-img-top.icon {
-            padding: 1rem; /*  for background less icons */
-        }
-
-    .card {
-        position: relative
-    }
-
-    .platform-icon {
-        position: absolute;
-        top: -20px;
-        right: -20px;
-        /* makes this a circle */
-        border-radius: 30px;
-        background-color: grey;
-        color: #fff;
-        height: 40px;
-        width: 40px;
-        z-index: 4;
-    }
-
-        .platform-icon + .platform-icon {
-            right: 15px;
-        }
-
-            .platform-icon + .platform-icon + .platform-icon {
-                right: 55px;
-            }
-
-        .platform-icon svg {
-            position: absolute;
-            font-size: 1.75rem;
-            top: 50%;
-            left: 50%;
-            transform: translateY(-50%) translateX(-50%)
-        }
-</style>
 
 
 @code {
-    public List<CardData> Data => new()
-    {
-        new()
-        {
-            ID = 0,Href="/portfolio/quad-bike",Title = "Quad Bikes",
-            Description = "Made for the Speed 2024 game jam, Quad Bikes is an arcade racer set in a picturesque forest.",
-            Date = "Febuary 2024", ImageFilePath = "images/quad-bikes.png",
-            Platforms=new() { new(){ Type = Platform_Value.unity }/*, new(){ Type = Platform_Value.unity },*/ },
-            ProjectType = ProjectType.gameJams
-        },
-        new()
-        {
-            ID = 0,Href="/portfolio/quad-bike",Title = "Quad Bikes",
-            Description = "Made for the Speed 2024 game jam, Quad Bikes is an arcade racer set in a picturesque forest.",
-            Date = "Febuary 2024", ImageFilePath = "images/quad-bikes.png",
-            Platforms=new() { new(){ Type = Platform_Value.unity }/*, new(){ Type = Platform_Value.unity },*/ },
-            ProjectType = ProjectType.gameJams
-        },
-        new()
-        {
-            ID = 0,Href="/portfolio/quad-bike",Title = "Quad Bikes",
-            Description = "Made for the Speed 2024 game jam, Quad Bikes is an arcade racer set in a picturesque forest.",
-            Date = "Febuary 2024", ImageFilePath = "images/quad-bikes.png",
-            Platforms=new() { new(){ Type = Platform_Value.unity }/*, new(){ Type = Platform_Value.unity },*/ },
-            ProjectType = ProjectType.gameJams
-        },
-        new()
-        {
-            ID = 0,Href="/portfolio/quad-bike",Title = "Quad Bikes",
-            Description = "Made for the Speed 2024 game jam, Quad Bikes is an arcade racer set in a picturesque forest.",
-            Date = "Febuary 2024", ImageFilePath = "images/quad-bikes.png",
-            Platforms=new() { new(){ Type = Platform_Value.unity }/*, new(){ Type = Platform_Value.unity },*/ },
-            ProjectType = ProjectType.gameJams
-        },
-        new()
-        {
-            ID = 0,Href="/portfolio/quad-bike",Title = "Quad Bikes",
-            Description = "Made for the Speed 2024 game jam, Quad Bikes is an arcade racer set in a picturesque forest.",
-            Date = "Febuary 2024", ImageFilePath = "images/quad-bikes.png",
-            Platforms=new() { new(){ Type = Platform_Value.unity }/*, new(){ Type = Platform_Value.unity },*/ },
-            ProjectType = ProjectType.gameJams
-        },
-        new()
-        {
-            ID = 0,Href="/portfolio/quad-bike",Title = "Quad Bikes",
-            Description = "Made for the Speed 2024 game jam, Quad Bikes is an arcade racer set in a picturesque forest.",
-            Date = "Febuary 2024", ImageFilePath = "images/quad-bikes.png",
-            Platforms=new() { new(){ Type = Platform_Value.unity }/*, new(){ Type = Platform_Value.unity },*/ },
-            ProjectType = ProjectType.gameJams
-        },/*
-        new()
-        {
-            ID = 1,Href="/portfolio/quad-bike",Title = "Quad Bikes",
-            Description = "Made for the Speed 2024 game jam, Quad Bikes is an arcade racer set in a picturesque forest.",
-            Date = "Febuary 2024", ImageFilePath = "images/quad-bikes.png", PlatformTag = Platform.unity, SecondaryPlatformTag= null,
-            ProjectType = ProjectType.gameJams
-        },*/
-    };
-    public class CardData()
-    {
-        public int ID { get; set; }
-        public string Href { get; set; }
-        public string Title { get; set; }
-        public string Description { get; set; }
-        public string Date { get; set; }
-        public string ImageFilePath { get; set; }
-
-        public ProjectType ProjectType { get; set; }
-
-        public List<Platform> Platforms { get; set; }
-
-
-    }
-    public class Platform()
-    {
-        public Platform_Value Type { get; set; }
-        public string Icon => GetIcon(Type);
-
-        public string GetIcon(Platform_Value? platform)
-        {
-            switch (platform)
-            {
-                case Platform_Value.unity:
-                    return "fa-brands fa-unity";
-                default:
-                    return "";
-            }
-
-        }
-    }
-
-    public enum Platform_Value
-    {
-        unity = 0,
-        unreal = 1,
-        cplusplus = 2,
-    }
-    public enum ProjectType
-    {
-        uni = 0,
-        gameJams = 1,
-        studio = 2,
-    }
+    public List<CardData> FilteredData => Filter == CardData.ProjectType_Value.All ? ProjectData.Data : ProjectData.Data.Where(x => x.ProjectType == Filter).ToList();
+    public CardData.ProjectType_Value Filter { get; set; } = CardData.ProjectType_Value.All;
 }

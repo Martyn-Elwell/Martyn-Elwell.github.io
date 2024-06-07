@@ -1,0 +1,9 @@
+﻿<div class="page-header mb-5" style="background-image: url('@BackgroundURL')">
+    <div class="px-5">
+        @ChildContent
+    </div>
+</div>
+@code {
+    [Parameter] public RenderFragment ChildContent { get; set; }
+    [Parameter] public string BackgroundURL { get; set; } = "";
+}

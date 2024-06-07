@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[d:/Users/tim/Documents/Martyn-Elwell.github.io/Martyn Portfolio Website/WebApp/Components/Layout/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRm9vdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [d:/Users/tim/Documents/Martyn-Elwell.github.io/Martyn Portfolio Website/WebApp/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -38,12 +42,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQb3J0Zm9saW8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[d:/Users/tim/Documents/Martyn-Elwell.github.io/Martyn Portfolio Website/WebApp/Components/Pages/ProjectPages/Quad-bikes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9qZWN0UGFnZXNcUXVhZC1iaWtlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [d:/Users/tim/Documents/Martyn-Elwell.github.io/Martyn Portfolio Website/WebApp/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [d:/Users/tim/Documents/Martyn-Elwell.github.io/Martyn Portfolio Website/WebApp/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Users/tim/Documents/Martyn-Elwell.github.io/Martyn Portfolio Website/WebApp/Components/Shared/Banner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcQmFubmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Users/tim/Documents/Martyn-Elwell.github.io/Martyn Portfolio Website/WebApp/Components/Shared/PageHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcUGFnZUhlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Users/tim/Documents/Martyn-Elwell.github.io/Martyn Portfolio Website/WebApp/Components/Shared/PorfolioCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcUG9yZm9saW9DYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [d:/Users/tim/Documents/Martyn-Elwell.github.io/Martyn Portfolio Website/WebApp/Components/_Imports.razor]

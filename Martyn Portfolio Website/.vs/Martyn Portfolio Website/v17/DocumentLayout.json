@@ -3,44 +3,64 @@
   "WorkspaceRootPath": "D:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\shared\\banner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\shared\\banner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\wwwroot\\bootstrap\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\bootstrap\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\pages\\projectpages\\quad-bikes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\pages\\projectpages\\quad-bikes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\shared\\pageheader.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\shared\\pageheader.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\pages\\portfolio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\pages\\portfolio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\pages\\portfolio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\pages\\portfolio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\data\\projectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\data\\projectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\models\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\wwwroot\\bootstrap\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\bootstrap\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\wwwroot\\bootstrap\\_variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\bootstrap\\_variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|d:\\users\\tim\\documents\\martyn-elwell.github.io\\martyn portfolio website\\webapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B83C8400-FCE1-4323-AF58-CC54218F492F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,17 +70,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Banner.razor",
+              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Shared\\Banner.razor",
+              "RelativeDocumentMoniker": "WebApp\\Components\\Shared\\Banner.razor",
+              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Shared\\Banner.razor",
+              "RelativeToolTip": "WebApp\\Components\\Shared\\Banner.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T20:32:42.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "app.css",
-              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\wwwroot\\app.css",
+              "DocumentMoniker": "D:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "WebApp\\wwwroot\\app.css",
-              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\wwwroot\\app.css",
+              "ToolTip": "D:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\wwwroot\\app.css",
               "RelativeToolTip": "WebApp\\wwwroot\\app.css",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAuwKIAAAAkAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAArwBMBAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-06-05T19:50:43.826Z",
               "IsPinned": true,
@@ -68,117 +101,172 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Layout\\MainLayout.razor.css",
-              "RelativeDocumentMoniker": "WebApp\\Components\\Layout\\MainLayout.razor.css",
-              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Layout\\MainLayout.razor.css",
-              "RelativeToolTip": "WebApp\\Components\\Layout\\MainLayout.razor.css",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAYwGAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-05T22:25:26.81Z",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WebApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "WebApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T20:52:18.897Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
+              "Title": "Footer.razor",
+              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Layout\\Footer.razor",
+              "RelativeDocumentMoniker": "WebApp\\Components\\Layout\\Footer.razor",
+              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Layout\\Footer.razor",
+              "RelativeToolTip": "WebApp\\Components\\Layout\\Footer.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T17:37:26.061Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Portfolio.razor",
-              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Pages\\Portfolio.razor",
+              "DocumentMoniker": "D:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Pages\\Portfolio.razor",
               "RelativeDocumentMoniker": "WebApp\\Components\\Pages\\Portfolio.razor",
-              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Pages\\Portfolio.razor",
+              "ToolTip": "D:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Pages\\Portfolio.razor",
               "RelativeToolTip": "WebApp\\Components\\Pages\\Portfolio.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-05T20:52:34.857Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Home.razor",
-              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "WebApp\\Components\\Pages\\Home.razor",
-              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "WebApp\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAGAAAA",
+              "Title": "PageHeader.razor",
+              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Shared\\PageHeader.razor",
+              "RelativeDocumentMoniker": "WebApp\\Components\\Shared\\PageHeader.razor",
+              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Shared\\PageHeader.razor",
+              "RelativeToolTip": "WebApp\\Components\\Shared\\PageHeader.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T20:52:18.897Z",
+              "WhenOpened": "2024-06-06T20:20:39.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.razor",
-              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\App.razor",
-              "RelativeDocumentMoniker": "WebApp\\Components\\App.razor",
-              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\App.razor",
-              "RelativeToolTip": "WebApp\\Components\\App.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T20:13:00.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "WebApp\\Components\\_Imports.razor",
-              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\_Imports.razor",
-              "RelativeToolTip": "WebApp\\Components\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T20:09:25.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\wwwroot\\bootstrap\\bootstrap.css",
-              "RelativeDocumentMoniker": "WebApp\\wwwroot\\bootstrap\\bootstrap.css",
-              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\wwwroot\\bootstrap\\bootstrap.css",
-              "RelativeToolTip": "WebApp\\wwwroot\\bootstrap\\bootstrap.css",
-              "ViewState": "AQIAAJEoAAAAAAAAAAAYwJ4oAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-05T20:03:54.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NavMenu.razor.css",
-              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Layout\\NavMenu.razor.css",
-              "RelativeDocumentMoniker": "WebApp\\Components\\Layout\\NavMenu.razor.css",
-              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Layout\\NavMenu.razor.css",
-              "RelativeToolTip": "WebApp\\Components\\Layout\\NavMenu.razor.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-05T19:55:42.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "WebApp\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "WebApp\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T19:55:19.672Z",
+              "WhenOpened": "2024-06-06T19:44:04.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "WebApp\\Components\\Routes.razor",
+              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Routes.razor",
+              "RelativeToolTip": "WebApp\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T19:01:32.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quad-bikes.razor",
+              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Pages\\ProjectPages\\Quad-bikes.razor",
+              "RelativeDocumentMoniker": "WebApp\\Components\\Pages\\ProjectPages\\Quad-bikes.razor",
+              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Pages\\ProjectPages\\Quad-bikes.razor",
+              "RelativeToolTip": "WebApp\\Components\\Pages\\ProjectPages\\Quad-bikes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T18:59:34.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "WebApp\\Components\\App.razor",
+              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\App.razor",
+              "RelativeToolTip": "WebApp\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T18:51:48.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CardData.cs",
+              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Models\\CardData.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\CardData.cs",
+              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Models\\CardData.cs",
+              "RelativeToolTip": "WebApp\\Models\\CardData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:41:09.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectData.cs",
+              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Data\\ProjectData.cs",
+              "RelativeDocumentMoniker": "WebApp\\Data\\ProjectData.cs",
+              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Data\\ProjectData.cs",
+              "RelativeToolTip": "WebApp\\Data\\ProjectData.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:41:05.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\wwwroot\\bootstrap\\bootstrap.css",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\bootstrap\\bootstrap.css",
+              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\wwwroot\\bootstrap\\bootstrap.css",
+              "RelativeToolTip": "WebApp\\wwwroot\\bootstrap\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-06T18:24:59.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_variables.scss",
+              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\wwwroot\\bootstrap\\_variables.scss",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\bootstrap\\_variables.scss",
+              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\wwwroot\\bootstrap\\_variables.scss",
+              "RelativeToolTip": "WebApp\\wwwroot\\bootstrap\\_variables.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-06-06T18:24:56.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "D:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "WebApp\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "WebApp\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-05T19:50:55.329Z",
               "EditorCaption": ""

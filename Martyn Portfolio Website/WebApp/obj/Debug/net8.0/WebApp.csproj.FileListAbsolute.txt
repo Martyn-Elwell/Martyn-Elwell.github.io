@@ -27,3 +27,4 @@ d:\Users\tim\Documents\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\o
 d:\Users\tim\Documents\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
 d:\Users\tim\Documents\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\ref\WebApp.dll
 d:\Users\tim\Documents\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+d:\Users\tim\Documents\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
