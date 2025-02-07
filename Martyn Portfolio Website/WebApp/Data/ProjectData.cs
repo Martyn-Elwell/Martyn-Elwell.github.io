@@ -13,6 +13,46 @@ namespace WebApp.Data
                 Date = "Febuary 2024", ImageFilePath = "images/quad-bikes.png",
                 Platforms=new() { new(){ Type = CardData.Platform_Value.unity }/*, new(){ Type = Platform_Value.unity },*/ },
                 ProjectType = CardData.ProjectType_Value.GameJams
+            },
+            new()
+            {
+                ID = 0,Href="/portfolio/quad-bikes",Title = "Quad Bikes",
+                Description = "Made for the Speed 2024 game jam, Quad Bikes is an arcade racer set in a picturesque forest.",
+                Date = "Febuary 2024", ImageFilePath = "images/quad-bikes.png",
+                Platforms=new() { new(){ Type = CardData.Platform_Value.unity }/*, new(){ Type = Platform_Value.unity },*/ },
+                ProjectType = CardData.ProjectType_Value.GameJams
+            },
+            new()
+            {
+                ID = 0,Href="/portfolio/quad-bikes",Title = "Quad Bikes",
+                Description = "Made for the Speed 2024 game jam, Quad Bikes is an arcade racer set in a picturesque forest.",
+                Date = "Febuary 2024", ImageFilePath = "images/quad-bikes.png",
+                Platforms=new() { new(){ Type = CardData.Platform_Value.unity }/*, new(){ Type = Platform_Value.unity },*/ },
+                ProjectType = CardData.ProjectType_Value.GameJams
+            },
+            new()
+            {
+                ID = 0,Href="/portfolio/quad-bikes",Title = "Quad Bikes",
+                Description = "Made for the Speed 2024 game jam, Quad Bikes is an arcade racer set in a picturesque forest.",
+                Date = "Febuary 2024", ImageFilePath = "images/quad-bikes.png",
+                Platforms=new() { new(){ Type = CardData.Platform_Value.unity }/*, new(){ Type = Platform_Value.unity },*/ },
+                ProjectType = CardData.ProjectType_Value.GameJams
+            },
+            new()
+            {
+                ID = 0,Href="/portfolio/quad-bikes",Title = "Quad Bikes",
+                Description = "Made for the Speed 2024 game jam, Quad Bikes is an arcade racer set in a picturesque forest.",
+                Date = "Febuary 2024", ImageFilePath = "images/quad-bikes.png",
+                Platforms=new() { new(){ Type = CardData.Platform_Value.unity }/*, new(){ Type = Platform_Value.unity },*/ },
+                ProjectType = CardData.ProjectType_Value.GameJams
+            },
+            new()
+            {
+                ID = 0,Href="/portfolio/quad-bikes",Title = "Quad Bikes",
+                Description = "Made for the Speed 2024 game jam, Quad Bikes is an arcade racer set in a picturesque forest.",
+                Date = "Febuary 2024", ImageFilePath = "images/quad-bikes.png",
+                Platforms=new() { new(){ Type = CardData.Platform_Value.unity }/*, new(){ Type = Platform_Value.unity },*/ },
+                ProjectType = CardData.ProjectType_Value.GameJams
             }/*
             new()
             {

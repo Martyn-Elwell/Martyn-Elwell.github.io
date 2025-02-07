@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tim__\\.nuget\\packages\\": {}
+    "C:\\Users\\marty\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "F:\\Users\\Martyn\\Documents\\Game Dev\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\WebApp.csproj",
-      "packagesPath": "C:\\Users\\tim__\\.nuget\\packages\\",
-      "outputPath": "d:\\Users\\tim\\Documents\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\obj\\",
+      "projectPath": "F:\\Users\\Martyn\\Documents\\Game Dev\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\WebApp.csproj",
+      "packagesPath": "C:\\Users\\marty\\.nuget\\packages\\",
+      "outputPath": "F:\\Users\\Martyn\\Documents\\Game Dev\\Martyn-Elwell.github.io\\Martyn Portfolio Website\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tim__\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marty\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

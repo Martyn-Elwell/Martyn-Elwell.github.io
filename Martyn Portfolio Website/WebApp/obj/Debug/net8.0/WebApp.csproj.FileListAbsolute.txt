@@ -28,3 +28,33 @@ d:\Users\tim\Documents\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\o
 d:\Users\tim\Documents\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\ref\WebApp.dll
 d:\Users\tim\Documents\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 d:\Users\tim\Documents\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\bin\Debug\net8.0\appsettings.Development.json
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\bin\Debug\net8.0\appsettings.json
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\bin\Debug\net8.0\WebApp.exe
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\bin\Debug\net8.0\WebApp.deps.json
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\bin\Debug\net8.0\WebApp.dll
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\bin\Debug\net8.0\WebApp.pdb
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\WebApp.dll
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\WebApp.pdb
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+F:\Users\Martyn\Documents\Game Dev\Martyn-Elwell.github.io\Martyn Portfolio Website\WebApp\obj\Debug\net8.0\ref\WebApp.dll

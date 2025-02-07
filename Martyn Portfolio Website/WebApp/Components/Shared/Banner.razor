@@ -1,5 +1,69 @@
-﻿<h3>Banner</h3>
-
+﻿<div class="bg-@Colour py-md-5">
+    <div class="container">
+        <div class="row align-items-center justify-content-center no-gutters">
+            @if (TextPosition == TextPositionEnum.Left)
+            {
+                <div class="col-md order-2 order-md-1 @TextSettings ">
+                    <div class="pr-3 py-md-0 py-5">
+                        @TextContent
+                    </div>
+                </div>
+                <div class="col-md order-1 order-md-2 @ImageSettings) ">
+                    @ImageContent
+                </div>
+            }
+            else if (TextPosition == TextPositionEnum.Right)
+            {
+                <div class="col-md @ImageSettings) ">
+                    @ImageContent
+                </div>
+                <div class="col-md @TextSettings ">
+                    <div class="pl-3 py-md-0 py-5">
+                        @TextContent
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div class="col-md @ImageSettings) ">
+                    @ImageContent
+                </div>
+                <div class="col-md @TextSettings ">
+                    <div class="pl-3 py-md-0 py-5">
+                        @TextContent
+                    </div>
+                </div>
+            }
+            
+        </div>
+    </div>
+</div>
 @code {
+    [Parameter] public String Colour { get; set; }
+    [Parameter] public RenderFragment ImageContent { get; set; }
+    [Parameter] public RenderFragment TextContent { get; set; }
+    [Parameter] public TextPositionEnum TextPosition { get; set; }
+    private string TextSettings => $"text-{GetTextColour()} text-md-left text-center mt-3 mt-md-0";
+    private string ImageSettings = "";
+    public enum TextPositionEnum
+    {
+        None = 0,
+        Left = 1,
+        Right = 2
+    }
 
+    private string GetTextColour()
+    {
+        switch (Colour)
+        {
+            case "light":
+            case "white":
+            case "warning":
+                return "black";
+            default:
+                return "white";
+
+        }
+    }
 }
+
